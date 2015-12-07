@@ -19,7 +19,9 @@ However the grid layout requires making sub-pages, which Wordpress gives URLs li
 
 Install the [Toggle the Title](https://wordpress.org/plugins/toggle-the-title/) plugin. This removes titles from pages, but not posts. It actually removes the HTML rather than just hiding it with CSS. In "Settings > Title Toggler" set it to remove all titles from all pages.
 
-## Retain HTML in front page grid items
+## Retain HTML in grid page article items
+
+Edin removes HTML tags from the snippets displayed in the grid page. The child theme permits basic formatting such as `<b>`, `<i>`, `<u>`, `<ul>`, `<li>`, `<strong>`.
 
 ## Align images
 
