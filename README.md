@@ -4,7 +4,7 @@ I love the free [Edin theme](https://theme.wordpress.com/themes/edin/) for [Word
 
 ## Install child theme
 
-Install my (Edin child theme)[https://github.com/austinjp/edin-child-theme]. This does a few things:
+Install my [Edin child theme](https://github.com/austinjp/edin-child-theme). This does a few things:
 
 1. Replaces thumbnail images on the "grid" page with a transparent PNG, and instead displays the featured image as a background image lement. This allows alignment far more easily using `background-position` in HTML/CSS.
 2. Set a "focal point" for featured images, using a custom field `image_focus`. This is used by the "grid" page, and the "hero" elements.
