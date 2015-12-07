@@ -28,3 +28,5 @@ Edin removes HTML tags from the snippets displayed in the grid page. The child t
 In any page add a custom field called "image_focus". Set the value to be any valid `background-position` CSS value e.g. `top left` or `center right` etc. This will be used by the "grid" page and "hero" elements to ensure that the focal point of any image is kept in the frame when a featured image is cropped.
 
 ## Alter text in footer
+
+Footer text mentioning Edin and Wordpress is removed by the child theme.
