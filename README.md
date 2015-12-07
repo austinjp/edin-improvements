@@ -6,5 +6,14 @@ I love the free [Edin theme](https://theme.wordpress.com/themes/edin/) for [Word
 
 Edin's grid layout is a good choice for a front page. Create a page, call it "front page" or similar, and change it to type "Grid". Go to "Settings > Reading" and use that page as a static front page. Create new pages with the front page as a parent. They should now appear as items in a grid on the front page.
 
-However the grid layout requires making sub-pages, which Wordpress gives URLs like `http://www.example.com/front-page/sub-page` whereas I prefer `http://www.example.com/sub-page`. Fortunately this is simple to fix by installing the [Custom Permalinks plugin](https://wordpress.org/plugins/custom-permalinks/). After installing check "Settings > Permalinks".
+However the grid layout requires making sub-pages, which Wordpress gives URLs like `http://www.example.com/front-page/sub-page` whereas I prefer `http://www.example.com/sub-page`. Fortunately this is simple to fix by installing the [Custom Permalinks plugin](https://wordpress.org/plugins/custom-permalinks/). After installing check "Settings > Permalinks" are set to "Post name" and ensure `.htaccess` is writable.
 
+## Remove page titles
+
+
+
+## Retain HTML in front page grid items
+
+## Align images
+
+## Alter text in footer
