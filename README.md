@@ -23,4 +23,6 @@ Install the [Toggle the Title](https://wordpress.org/plugins/toggle-the-title/) 
 
 ## Align images
 
+In any page add a custom field called "image_focus". Set the value to be any valid `background-position` CSS value e.g. `top left` or `center right` etc. This will be used by the "grid" page and "hero" elements to ensure that the focal point of any image is kept in the frame when a featured image is cropped.
+
 ## Alter text in footer
