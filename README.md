@@ -21,7 +21,7 @@ Install the [Toggle the Title](https://wordpress.org/plugins/toggle-the-title/) 
 
 ## Retain HTML in grid page article items
 
-Edin removes HTML tags from the snippets displayed in the grid page. The child theme permits basic formatting such as `<b>`, `<i>`, `<u>`, `<ul>`, `<li>`, `<strong>`.
+Edin removes HTML tags from the snippets displayed in the grid page. The child theme permits basic HTML tags such as `<b>`, `<i>`, `<u>`, `<ul>`, `<li>`, `<strong>`.
 
 ## Align images
 
