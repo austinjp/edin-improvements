@@ -2,6 +2,8 @@
 
 I love the free [Edin theme](https://theme.wordpress.com/themes/edin/) for [Wordpress](https://wordpress.com). However I have found I need to make the same tweaks to it every time I use it. This repository keeps that all in one place, mainly for my convenience.
 
+The child theme and all instructions below have been tested with Edin version 1.2.2.
+
 ## Install child theme
 
 Install my [Edin child theme](https://github.com/austinjp/edin-child-theme). This does a few things:
